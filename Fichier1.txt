@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 kdlsjflkd
 Hello !!!
 
@@ -7,3 +8,6 @@ fdsfsfd
 =======
 kdlsjflkd ouais c'est ça!!!!!!!!
 >>>>>>> 450dfba... hum!!
+=======
+kdlsjflkd
+>>>>>>> daba0a5... test
