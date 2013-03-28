@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 kdlsjflkd
 Hello !!!
 
@@ -11,3 +12,6 @@ kdlsjflkd ouais c'est ça!!!!!!!!
 =======
 kdlsjflkd
 >>>>>>> daba0a5... test
+=======
+kdlsjflkd ouais c'est ça!!!!!!!!
+>>>>>>> 5b586200b8f68c384dd3a40b2d2d850e18ad2514
