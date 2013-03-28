@@ -1,8 +1,5 @@
 kdlsjflkd
 Hello !!!
-<<<<<<< HEAD
 
 
 fdsfsfd
-=======
->>>>>>> d32a6b8... commit fid
