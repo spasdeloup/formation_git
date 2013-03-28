@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 kdlsjflkd
 Hello !!!
 
 
 fdsfsfd
+=======
+kdlsjflkd ouais c'est ça!!!!!!!!
+>>>>>>> 450dfba... hum!!

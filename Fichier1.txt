@@ -1,3 +1,9 @@
-Fichier1
+<<<<<<< HEAD
+kdlsjflkd
+Hello !!!
 
-modification 1
+
+fdsfsfd
+=======
+kdlsjflkd ouais c'est ça!!!!!!!!
+>>>>>>> 450dfba... hum!!
