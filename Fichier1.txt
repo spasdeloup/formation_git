@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Fichier1
+=======
+kdlsjflkd
+Hello !!!
+
+
+fdsfsfd
+>>>>>>> ff24d7c... COmmit propre
